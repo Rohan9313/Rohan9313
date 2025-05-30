@@ -1,6 +1,7 @@
-
 <h1 align="center">Hi 👋, I'm ROHAN</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
+
+- 🔭 I’m currently working on AD WORLD GRAPHICS PVT LTD [Vender installation report](https://lookerstudio.google.com/reporting/54a216fc-c9db-4d45-893b-af0f027187d1/page/vFbJF)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Rohan9313](https://github.com/Rohan9313)
 
@@ -20,27 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohan9313&show_icons=true&locale=en&layout=compact" alt="rohan9313" /></p>
 
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
